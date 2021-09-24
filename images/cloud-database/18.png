@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>compass-schema-viz</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-635.000000, -3938.000000)" id="compass-schema-viz">
+            <g transform="translate(635.000000, 3939.000000)">
+                <rect id="Rectangle" stroke="#13AA52" x="0.818181818" y="0.409090909" width="34.3636364" height="31.9090909" rx="1.5"></rect>
+                <line x1="0.818181818" y1="7.77272727" x2="35.1818182" y2="7.77272727" id="Path" stroke="#13AA52"></line>
+                <line x1="18" y1="17.5909091" x2="18" y2="22.5" id="Path" stroke="#116149"></line>
+                <rect id="Rectangle" stroke="#116149" x="15.5454545" y="12.6818182" width="4.90909091" height="4.90909091" rx="0.75"></rect>
+                <rect id="Rectangle" stroke="#116149" x="15.5454545" y="22.5" width="4.90909091" height="4.90909091" rx="0.75"></rect>
+                <rect id="Rectangle" stroke="#116149" x="5.72727273" y="22.5" width="4.90909091" height="4.90909091" rx="0.75"></rect>
+                <rect id="Rectangle" stroke="#116149" x="25.3636364" y="22.5" width="4.90909091" height="4.90909091" rx="0.75"></rect>
+                <path d="M15.5454545,15.1363636 L10.6363636,15.1363636 C9.28075561,15.1363636 8.18181818,16.2353011 8.18181818,17.5909091 L8.18181818,22.5" id="Path" stroke="#116149"></path>
+                <path d="M20.4545455,15.1363636 L25.3636364,15.1363636 C26.7192444,15.1363636 27.8181818,16.2353011 27.8181818,17.5909091 L27.8181818,22.5" id="Path" stroke="#116149"></path>
+            </g>
+        </g>
+    </g>
+</svg>

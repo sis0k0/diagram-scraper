@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="32px" viewBox="0 0 36 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>general-features-real-time</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-771.000000, -1790.000000)" id="general-features-real-time">
+            <g transform="translate(789.000000, 1805.500000) scale(-1, 1) translate(-789.000000, -1805.500000) translate(771.000000, 1790.000000)">
+                <polyline id="Path" stroke="#116149" points="20.3478261 7.82295652 20.3478261 16.4316522 28.173913 16.4316522"></polyline>
+                <polyline id="Path" stroke="#13AA52" points="0.782608696 10.944 5.47826087 17.9874783 10.9565217 11.7266087"></polyline>
+                <path d="M20.3478261,30.5217391 C28.5600602,30.5217391 35.2173913,23.864408 35.2173913,15.6521739 C35.2173913,7.43993981 28.5600602,0.782608696 20.3478261,0.782608696 C12.135592,0.782608696 5.47826087,7.43993981 5.47826087,15.6521739 L5.47826087,17.9906087" id="Path" stroke="#13AA52"></path>
+            </g>
+        </g>
+    </g>
+</svg>

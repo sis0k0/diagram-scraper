@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="36px" viewBox="0 0 23 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>general-objects-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-642.000000, -1958.000000)" id="general-objects-mobile">
+            <g transform="translate(643.000000, 1959.000000)">
+                <line x1="0.3765" y1="27.125" x2="20.6265" y2="27.125" id="Path" stroke="#116149"></line>
+                <rect id="Rectangle" stroke="#13AA52" x="0.3765" y="0.125" width="20.25" height="33.75" rx="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

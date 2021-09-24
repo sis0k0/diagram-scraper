@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>atlas-migrated</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-1448.000000, -3446.000000)" id="atlas-migrated">
+            <g transform="translate(1449.000000, 3447.000000)">
+                <path d="M17,13.6265 C7.6805,13.6265 0.125,10.604 0.125,6.8765 C0.125,3.149 7.6805,0.1265 17,0.1265 C26.3195,0.1265 33.875,3.1475 33.875,6.8765 C33.875,8.6375 32.1875,10.241 29.4245,11.444" id="Path" stroke="#13AA52"></path>
+                <line x1="33.875" y1="14.678" x2="33.875" y2="6.8765" id="Path" stroke="#13AA52"></line>
+                <path d="M0.125,6.8765 L0.125,15.8765 C0.125,18.8135 4.817,21.3125 11.366,22.241" id="Path" stroke="#13AA52"></path>
+                <path d="M0.125,15.8765 L0.125,24.8765 C0.125,27.977 5.354,30.59 12.4775,31.3805" id="Path" stroke="#13AA52"></path>
+                <circle id="Oval" stroke="#116149" cx="24.875" cy="24.8765" r="9"></circle>
+                <path d="M28.886,22.259 L24.5285,28.07 C24.3324538,28.330736 24.0330066,28.4936838 23.7076028,28.5167008 C23.3821991,28.5397179 23.0627963,28.4205438 22.832,28.19 L20.582,25.94" id="Path" stroke="#116149"></path>
+            </g>
+        </g>
+    </g>
+</svg>

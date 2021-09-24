@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="34px" viewBox="0 0 35 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>cloud-virtual</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-635.000000, -3271.000000)" id="cloud-virtual">
+            <g transform="translate(636.000000, 3272.000000)">
+                <path d="M32.7185,11.363 C31.6498047,9.69452922 29.9488403,8.53210609 28.0061132,8.14259892 C26.0633861,7.75309176 24.0457816,8.16996024 22.4165,9.2975 C21.3186802,3.45490107 15.8645796,-0.525087757 9.9655777,0.211761419 C4.06657575,0.948610596 -0.240929891,6.14792966 0.13216561,12.0810545 C0.505261111,18.0141793 5.43016125,22.6329327 11.375,22.6250102" id="Path" stroke="#13AA52"></path>
+                <ellipse id="Oval" stroke="#116149" cx="24.4375" cy="18.375" rx="8.4375" ry="3.375"></ellipse>
+                <path d="M16,18.375 L16,23.43675 C16,25.3005 19.77775,26.81175 24.4375,26.81175 C29.09725,26.81175 32.875,25.30125 32.875,23.43675 L32.875,18.375" id="Path" stroke="#116149"></path>
+                <path d="M16,23.43675 L16,28.49925 C16,30.363 19.77775,31.87425 24.4375,31.87425 C29.09725,31.87425 32.875,30.363 32.875,28.49925 L32.875,23.43675" id="Path" stroke="#116149"></path>
+            </g>
+        </g>
+    </g>
+</svg>

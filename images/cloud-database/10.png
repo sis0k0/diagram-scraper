@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="38px" viewBox="0 0 35 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>solutions-iot</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-1042.000000, -2113.000000)" id="solutions-iot">
+            <g transform="translate(1043.000000, 2114.000000)">
+                <line x1="18.0661765" y1="16.5441176" x2="18.0661765" y2="13.7647059" id="Path" stroke="#116149"></line>
+                <line x1="26.4044118" y1="16.5441176" x2="26.4044118" y2="13.7647059" id="Path" stroke="#116149"></line>
+                <line x1="18.0661765" y1="36" x2="18.0661765" y2="33.2205882" id="Path" stroke="#116149"></line>
+                <line x1="26.4044118" y1="36" x2="26.4044118" y2="33.2205882" id="Path" stroke="#116149"></line>
+                <line x1="30.5735294" y1="20.7132353" x2="33.3529412" y2="20.7132353" id="Path" stroke="#116149"></line>
+                <line x1="30.5735294" y1="29.0514706" x2="33.3529412" y2="29.0514706" id="Path" stroke="#116149"></line>
+                <line x1="11.1176471" y1="20.7132353" x2="13.8970588" y2="20.7132353" id="Path" stroke="#116149"></line>
+                <line x1="11.1176471" y1="29.0514706" x2="13.8970588" y2="29.0514706" id="Path" stroke="#116149"></line>
+                <rect id="Rectangle" stroke="#116149" x="19.4558824" y="22.1029412" width="5.55882353" height="5.55882353"></rect>
+                <path d="M26.2334118,9.74117647 C25.8438222,7.64817141 24.3613982,5.92501861 22.3500537,5.22720522 C20.3387092,4.52939182 18.1076117,4.96418003 16.5054706,6.36617647 C15.4051483,2.18480603 11.2871864,-0.45838456 7.0274162,0.282510688 C2.76764602,1.02340594 -0.216031362,4.90177368 0.160073367,9.20910616 C0.536178097,13.5164386 4.14687525,16.8190033 8.47058824,16.8104285 L9.66176471,16.8104285" id="Path" stroke="#13AA52"></path>
+                <rect id="Rectangle" stroke="#13AA52" x="13.8970588" y="16.5441176" width="16.6764706" height="16.6764706" rx="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

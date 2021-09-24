@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>general-objects-app-data</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-1177.000000, -1959.000000)" id="general-objects-app-data">
+            <g transform="translate(1177.000000, 1960.000000)">
+                <rect id="Rectangle" stroke="#13AA52" x="0.834545455" y="0.414" width="34.3636364" height="31.9090909" rx="1.5"></rect>
+                <line x1="0.834545455" y1="7.77763636" x2="35.1981818" y2="7.77763636" id="Path" stroke="#13AA52"></line>
+                <line x1="9.5625" y1="14.3125" x2="9.5625" y2="18.0625" id="Path" stroke="#116149"></line>
+                <line x1="20.8125" y1="14.3125" x2="20.8125" y2="18.0625" id="Path" stroke="#116149"></line>
+                <line x1="26.4375" y1="14.3125" x2="26.4375" y2="18.0625" id="Path" stroke="#116149"></line>
+                <line x1="26.4375" y1="21.8125" x2="26.4375" y2="25.5625" id="Path" stroke="#116149"></line>
+                <line x1="15.1875" y1="21.8125" x2="15.1875" y2="25.5625" id="Path" stroke="#116149"></line>
+                <line x1="9.5625" y1="21.8125" x2="9.5625" y2="25.5625" id="Path" stroke="#116149"></line>
+                <circle id="Oval" stroke="#116149" cx="15.1875" cy="16.1875" r="1.875"></circle>
+                <circle id="Oval" stroke="#116149" cx="20.8125" cy="23.6875" r="1.875"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="32px" viewBox="0 0 36 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>general-objects-chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-771.000000, -1961.000000)" id="general-objects-chart">
+            <g transform="translate(772.000000, 1962.000000)">
+                <path d="M8,13.875 L3.5,13.875 C2.87867966,13.875 2.375,14.3786797 2.375,15 L2.375,29.625 L9.125,29.625 L9.125,15 C9.125,14.3786797 8.62132034,13.875 8,13.875 Z" id="Path" stroke="#13AA52"></path>
+                <path d="M19.25,0.375 L14.75,0.375 C14.1286797,0.375 13.625,0.878679656 13.625,1.5 L13.625,29.625 L20.375,29.625 L20.375,1.5 C20.375,0.878679656 19.8713203,0.375 19.25,0.375 Z" id="Path" stroke="#116149"></path>
+                <path d="M30.5,7.125 L26,7.125 C25.3786797,7.125 24.875,7.62867966 24.875,8.25 L24.875,29.625 L31.625,29.625 L31.625,8.25 C31.625,7.62867966 31.1213203,7.125 30.5,7.125 Z" id="Path" stroke="#13AA52"></path>
+                <line x1="0.125" y1="29.625" x2="33.875" y2="29.625" id="Path" stroke="#13AA52"></line>
+            </g>
+        </g>
+    </g>
+</svg>
